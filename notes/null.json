@@ -1,0 +1,1 @@
+{"title":"This: May 22nd","message":"A method is a property of an object\n\nMethod invocation :\nLook to the left of the dot at call time to figure out what the 'this' is\n\nglobal reference:\na global object in the browser is a window \n\nfree function invocation: \ncalling a function\n\n\n\n","id":null,"date":"2018-05-21T22:30:57.060Z","updated":"2018-05-21T22:59:57.785Z"}
