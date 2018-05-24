@@ -1,0 +1,1 @@
+{"title":"higher order functio","message":"a pure function does not alter the input or any value in a given scope \n console.log is a side effect \n a function is a test if it returns a boolean","id":"2bb53dfe-127b-4220-8be4-cd1750c416a6","date":"2018-05-24T23:24:01.006Z"}
